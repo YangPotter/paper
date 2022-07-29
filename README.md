@@ -1,1 +1,2 @@
-# paper
+# MMTAN
+Multi-modal Triplet Attention Network for Brain Disease Diagnosis
